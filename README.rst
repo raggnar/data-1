@@ -1,3 +1,6 @@
+!! This project has moved to https://github.com/pyvideo/data !!
+===============================================================
+
 pytube/data
 ===========
 
